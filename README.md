@@ -1,4 +1,4 @@
-# Indoor Lighting Estimation using an Event Camera
+# Event-LE: Indoor Lighting Estimation using an Event Camera
 
 [Indoor Lighting Estimation using an Event Camera](https://zehaoc.github.io/EventLE.github.io/).
 
