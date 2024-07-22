@@ -1,6 +1,6 @@
 # Indoor Lighting Estimation using an Event Camera
 
-This is the repository that contains source code for the [Event-LE website](https://zehaoc.github.io/EventLE.github.io/).
+[Indoor Lighting Estimation using an Event Camera](https://zehaoc.github.io/EventLE.github.io/).
 
 If you find Event-LE useful for your work please cite:
 ```
